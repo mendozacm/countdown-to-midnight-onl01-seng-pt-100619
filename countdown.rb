@@ -1,8 +1,8 @@
 #write your code here
-x = 5
-def countdown (x)
-  until x == 0 
-  puts "#{x} SECOND(S)"
+number = 5
+def countdown (number)
+  until number == 0 
+  puts "#{number} SECOND(S)"
   x -= 1
   sleep (1)
 end

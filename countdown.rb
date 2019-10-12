@@ -2,7 +2,7 @@
 number = 5
 def countdown 
   until number == 0 
-   "#{number} SECOND(S)!"
+  puts "#{number} SECOND(S)!"
   number -= 1
 end
 

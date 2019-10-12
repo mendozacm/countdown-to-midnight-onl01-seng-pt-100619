@@ -3,7 +3,7 @@ number = 5
 def countdown 
   until number == 0 
   puts "#{number} SECOND(S)"
-  x -= 1
+  number -= 1
 end
 
 

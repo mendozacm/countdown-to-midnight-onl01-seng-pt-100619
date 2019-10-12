@@ -3,7 +3,7 @@
 def countdown 
   number = 5
 while counter > 0
-  puts "The current number is less than 20."
+  puts 
   counter -= 1
 end
 

@@ -1,5 +1,5 @@
 #write your code here
-x = 10
+x = 5
 def countdown (x)
   until x == 0 
   puts "#{x} SECOND(S)"

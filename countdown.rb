@@ -4,6 +4,7 @@ def countdown (number)
   until number == 0 
   puts "#{number} SECOND(S)"
   x -= 1
+end
   sleep (1)
 end
 

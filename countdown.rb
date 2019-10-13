@@ -1,6 +1,6 @@
 
 
-def countdown
+def countdown (counter)
   
   counter = 10
 

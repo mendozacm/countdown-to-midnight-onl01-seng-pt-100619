@@ -2,11 +2,11 @@
 
 def countdown
   
-  number = 5
+  counter = 5
 
-  while number > 0
-   puts "#{number} SECOND(S)!"
-   number -= 1
+  while counter > 0
+   puts "#{counter} SECOND(S)!"
+   counter -= 1
      
   end
 

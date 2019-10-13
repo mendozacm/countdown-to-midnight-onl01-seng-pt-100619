@@ -6,9 +6,7 @@ until number == 0
   puts "#{number} SECOND(S)!"
   counter -= 1
 end
-
-
- "HAPPY NEW YEAR!"
+puts "HAPPY NEW YEAR!"
   
   
   

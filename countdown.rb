@@ -2,7 +2,7 @@
 
 def countdown 
   number = 5
-until counter == 0
+until number == 0
   puts "#{number} SECOND(S)!"
   counter -= 1
 end

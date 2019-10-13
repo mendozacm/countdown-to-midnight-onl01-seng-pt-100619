@@ -9,8 +9,7 @@ def countdown (counter)
    counter -= 1
      
   end
-
+"HAPPY NEW YEAR!"
   
   
 end
-"HAPPY NEW YEAR!"
